@@ -1,4 +1,8 @@
-<h1 align="center">🐨 Koala Mailman ✉️</h1>
+<h1 align="center">🐨 코알라 우체부 ✉️</h1>
+<p align="center">
+  <img width="250" height="250" alt="default_koala"
+       src="https://github.com/user-attachments/assets/62fb45f9-557f-4b57-8be8-690cd292babc" />
+</p>
 <p align="center">
   <b>코알라 우체부</b>는 목표 리마인드 서비스입니다.<br/>
   만다라트 기반 목표 작성, 목표 추천, 메일 알림 리마인드 기능을 제공합니다.
