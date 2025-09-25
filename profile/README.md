@@ -10,8 +10,9 @@
 
 ---
 <h2 align="center">   🏠 홈 화면 🔑 </h2>
-<img src="https://github.com/KoalaMailMan/.github/raw/main/gif/home.gif" alt="홈 화면 GIF" width="600">
-
+<p align="center">
+  <img src="https://github.com/KoalaMailMan/.github/raw/main/gif/home.gif" alt="홈 화면 GIF" width="600">
+</p>
 
 <h2 align="center">   📑 대시보드 화면 🤓 </h2>
 <h3 align="center"> 1. 만다라트 기반 목표 작성 </h3>
