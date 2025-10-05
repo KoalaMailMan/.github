@@ -16,8 +16,17 @@
 
 <h2 align="center">   📑 대시보드 화면 🤓 </h2>
 <h3 align="center"> 1. 만다라트 기반 목표 작성 </h3>
+
+<p align="center">
+  <img src="https://github.com/KoalaMailMan/.github/raw/main/gif/setGoal.gif" alt="만다라트 화면 GIF" width="600">
+</p>
+
 <h3 align="center"> 2. 상위 목표 기반 하위 목표 추천 </h3>
 <h3 align="center"> 3. 목표 저장 및 리마인드 설정 </h3>
+
+<p align="center">
+  <img src="https://github.com/KoalaMailMan/.github/raw/main/gif/remind.gif" alt="리마인드 화면 GIF" width="600">
+</p>
 
 ---
 
