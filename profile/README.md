@@ -22,6 +22,11 @@
 </p>
 
 <h3 align="center"> 2. 상위 목표 기반 하위 목표 추천 </h3>
+
+<p align="center">
+  <img src="https://github.com/KoalaMailMan/.github/raw/main/gif/recommendGoal.gif" alt="목표 추천 화면 GIF" width="600">
+</p>
+
 <h3 align="center"> 3. 목표 저장 및 리마인드 설정 </h3>
 
 <p align="center">
